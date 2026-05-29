@@ -19,7 +19,7 @@ export default function Navbar() {
   }, [])
 
   return (
-    <nav className="navbar" style={scrolled ? { boxShadow: '0 4px 40px rgba(0,0,0,0.4)' } : {}}>
+    <nav className={`navbar${scrolled ? ' scrolled' : ''}`}>
       <div className="navbar-inner">
         <a href="#about" className="navbar-logo">
           <div className="navbar-logo-badge">BS</div>

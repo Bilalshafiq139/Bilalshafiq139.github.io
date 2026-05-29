@@ -79,6 +79,8 @@ export default function Hero() {
               <span className="hero-cursor" aria-hidden="true" />
             </div>
 
+            <div className="hero-divider" />
+
             <p className="hero-bio">
               Data Analyst with 24+ GitHub projects spanning machine learning, business intelligence,
               and web automation. I turn raw data into decisions that move the needle.

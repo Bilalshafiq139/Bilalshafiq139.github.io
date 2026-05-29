@@ -11,7 +11,7 @@ export const projects = [
     github: 'https://github.com/Bilalshafiq139/loan-prediction',
     featured: true,
     icon: '🏦',
-    color: '#38bdf8',
+    color: '#c9a96e',
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ export const projects = [
     github: 'https://github.com/Bilalshafiq139/Spam_email_classification',
     featured: true,
     icon: '📧',
-    color: '#818cf8',
+    color: '#c9a96e',
   },
   {
     id: 3,
@@ -39,7 +39,7 @@ export const projects = [
     github: 'https://github.com/Bilalshafiq139/Global-store-Retail-analysis-',
     featured: true,
     icon: '🏪',
-    color: '#34d399',
+    color: '#c9a96e',
   },
   {
     id: 4,
@@ -53,7 +53,7 @@ export const projects = [
     github: 'https://github.com/Bilalshafiq139/telco-customer-churn-analysis',
     featured: false,
     icon: '📱',
-    color: '#fb923c',
+    color: '#c9a96e',
   },
   {
     id: 5,
@@ -67,7 +67,7 @@ export const projects = [
     github: 'https://github.com/Bilalshafiq139/Customer-Churn-Analysis-using-Deep-Learning',
     featured: false,
     icon: '🧠',
-    color: '#f472b6',
+    color: '#c9a96e',
   },
   {
     id: 6,
@@ -81,7 +81,7 @@ export const projects = [
     github: 'https://github.com/Bilalshafiq139',
     featured: false,
     icon: '👥',
-    color: '#34d399',
+    color: '#c9a96e',
   },
   {
     id: 7,
@@ -95,7 +95,7 @@ export const projects = [
     github: 'https://github.com/Bilalshafiq139/sales-performance-analysis',
     featured: false,
     icon: '📊',
-    color: '#38bdf8',
+    color: '#c9a96e',
   },
   {
     id: 8,
@@ -109,7 +109,7 @@ export const projects = [
     github: 'https://github.com/Bilalshafiq139',
     featured: false,
     icon: '🤖',
-    color: '#818cf8',
+    color: '#c9a96e',
   },
 ]
 
