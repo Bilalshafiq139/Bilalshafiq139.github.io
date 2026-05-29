@@ -109,8 +109,20 @@ export default function Hero() {
 
           <div className="hero-avatar">
             <div className="hero-avatar-ring" />
-            <div className="hero-avatar-inner">
-              <span style={{ position: 'relative', zIndex: 1 }}>📊</span>
+            <div className="hero-avatar-inner" style={{ padding: 0, overflow: 'hidden' }}>
+              <img
+                src="/photo.png"
+                alt="Bilal Shafique"
+                style={{
+                  width: '100%',
+                  height: '100%',
+                  objectFit: 'cover',
+                  objectPosition: 'center top',
+                  borderRadius: 'var(--radius-lg)',
+                  position: 'relative',
+                  zIndex: 1,
+                }}
+              />
             </div>
           </div>
         </div>
